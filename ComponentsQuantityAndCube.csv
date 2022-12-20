@@ -1,0 +1,11 @@
+,componentID,quantity,length,width,height,cube,cube-per-container,weight,weight-per-container,weight-or-cube,ocean-transportation-type,land-transportation-type
+0,CA,1,2.193445122,0.652439024,1.025,1.466866425,1618,11368.20167,2,weight,40ft,Van
+1,Linkage,1,0.0,0.0,0.72652439,0.0,0,1937.142,13,weight,40ft,Van
+2,Axles,2,0.857926829,0.0,0.0,0.0,0,1359.391667,18,weight,40ft,Van
+3,Lights,1,0.0,0.0,0.0,0.0,0,20.97633333,1229,weight,40ft,Van
+4,Seat,1,0.457317073,0.198170732,0.182926829,0.585,4058,188.621,136,weight,40ft,Van
+5,Radio,1,0.0,0.0,0.0,0.0,0,10.675,2414,weight,40ft,Van
+6,Guard,1,0.0,0.0,0.0,0.0,0,60.8105,423,weight,40ft,Van
+7,Fender,4,1.102743902,0.198170732,0.245731707,1.8949463,1252,172.1576667,149,weight,40ft,Van
+8,Bucket,1,0.396341463,0.857926829,0.301694423,3.62,655,1697.517,15,weight,40ft,Van
+9,Tires,4,0.491463415,0.186628049,0.491463415,1.590672724,1492,505.0036667,51,weight,40ft,Van
