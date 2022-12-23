@@ -1,0 +1,39 @@
+,chainId,companyId,SIC_Code,SIC_Description
+0,1,1,2869,"Industrial Organic Chemicals, Not Elsewhere Classified"
+1,2,2,3674,Semiconductors and Related Devices
+2,3,3,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+3,4,4,3944,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles"
+4,5,5,2099,"Food Preparations, Not Elsewhere Classified"
+5,6,6,3421,Cutlery
+6,7,7,3531,Construction Machinery and Equipment
+7,8,8,3845,Electromedical and Electrotherapeutic Apparatus
+8,9,9,2043,Cereal Breakfast Foods
+9,10,10,5064,"Electrical Appliances, Television and Radio Sets"
+10,11,7,3531,Construction Machinery and Equipment
+11,12,9,2043,Cereal Breakfast Foods
+12,13,3,3674,Semiconductors and Related Devices
+13,14,11,4731,Arrangement of Transportation of Freight and Cargo
+14,15,12,2841,"Soap and Other Detergents, Except Specialty Cleaners"
+15,16,8,3845,Electromedical and Electrotherapeutic Apparatus
+16,17,13,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+17,18,14,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+18,19,13,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+19,20,15,3577,"Computer Peripheral Equipment, Not Elsewhere Classified"
+20,21,16,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+21,22,17,2834,Pharmaceutical Preparations
+22,23,18,2851,"Paints, Varnishes, Lacquers, Enamels, and Allied Products"
+23,24,19,3546,Power-Driven Handtools
+24,25,20,3523,Farm Machinery and Equipment
+25,26,21,3724,Aircraft Engines and Engine Parts
+26,27,22,3845,Electromedical and Electrotherapeutic Apparatus
+27,28,23,3572,Computer Storage Devices
+28,29,24,3692,"Primary Batteries, Dry and Wet"
+29,30,25,4731,Arrangement of Transportation of Freight and Cargo
+30,31,20,3523,Farm Machinery and Equipment
+31,32,16,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+32,33,12,2844,"Perfumes, Cosmetics, and Other Toilet Preparations"
+33,34,26,3661,Telephone and Telegraph Apparatus
+34,35,22,3845,Electromedical and Electrotherapeutic Apparatus
+35,36,27,3523,Farm Machinery and Equipment
+36,37,28,2869,"Industrial Organic Chemicals, Not Elsewhere Classified"
+37,38,29,3724,Aircraft Engines and Engine Parts
